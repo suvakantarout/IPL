@@ -1,7 +1,12 @@
-﻿numpy
-pandas
-streamlit
-scikit-learn
-plotly
 matplotlib
+nvidia-ml-py
+pynvml
+seaborn
+tensorflow
+
+streamlit
+pandas
 joblib
+scikit-learn
+numpy
+plotly
